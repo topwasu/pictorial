@@ -4,8 +4,9 @@
 	position: relative;
 	border: solid #f7f7f9;
 	margin: 1rem;
+	clear: both;
 }
 .pagepage {
-	margin-left: 1230px;
-	margin-top: 20px;
+	float: right;
+	margin: 20px;
 }
